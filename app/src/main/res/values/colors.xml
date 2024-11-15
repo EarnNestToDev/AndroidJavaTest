@@ -2,4 +2,24 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="aqua950">#00362e</color>
+    <color name="aqua900">#005e50</color>
+    <color name="aqua600">#00b78e</color>
+    <color name="aqua300">#53ffd4</color>
+    <color name="aqua200">#96ffdf</color>
+    <color name="aqua100">#c8ffec</color>
+    <color name="aqua50">#e8fff8</color>
+
+    <color name="green950">#033102</color>
+    <color name="green800">#12680c</color>
+    <color name="green700">#0f8506</color>
+    <color name="green600">#10af01</color>
+    <color name="green400">#32f317</color>
+    <color name="green300">#6ffd59</color>
+    <color name="green200">#a7ff96</color>
+
+    <color name="shiraz600">#ff314d</color>
+
+
 </resources>
